@@ -1,2 +1,2 @@
 # LogMeSSH
-Tool for login in natted nachine
+Tools for login in natted nachine
